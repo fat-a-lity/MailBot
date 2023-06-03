@@ -6,7 +6,7 @@ Tested with Gmail. Inorder to make it work, the user must first enable 2 step ve
 
 # Customisation
 sender_email: User mail id
-sender_password: User mail password
+sender_password: App password (16 digit passcode)
 subject: Add the subject line
 body: Add mail body text
 excel_file: Add the location of excel file with recipient mail ids
